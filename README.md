@@ -83,3 +83,7 @@ GitHub: https://github.com/cde-ksh
 LinkedIn: https://www.linkedin.com/in/kshiraj-kapoor-52804a382/
 
 Email: kshirajkapoor@gmail.com
+
+## LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/kshmoon?theme=dark&font=Karma)
