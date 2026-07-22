@@ -69,10 +69,8 @@ Building full-stack applications with React and Flask while exploring modern sof
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cde-ksh&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cde-ksh&layout=compact)
-
+https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cde-ksh&show_icons=true
+https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cde-ksh&layout=compact
 ---
 
 ## Connect
