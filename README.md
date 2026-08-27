@@ -82,14 +82,14 @@ Email: kshirajkapoor@gmail.com
 ## GitHub Stats
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cde-ksh&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="./profile/top-langs.svg" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cde-ksh&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="./profile/rankresume.svg" alt="RankResume" />
-  <img src="./profile/ngo-smart-resource-allocation.svg" alt="NGO Smart Resource Allocation" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cde-ksh&repo=RankResume&theme=dark&hide_border=true" alt="RankResume" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cde-ksh&repo=ngo-smart-resource-allocation&theme=dark&hide_border=true" alt="NGO Smart Resource Allocation" />
 </p>
