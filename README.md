@@ -81,14 +81,26 @@ Email: kshirajkapoor@gmail.com
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=cde-ksh&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img
+        src="https://github-stats-extended.vercel.app/api?username=cde-ksh&show_icons=true&theme=dark&hide_border=true"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=cde-ksh&layout=compact&theme=dark&hide_border=true"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=cde-ksh&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=cde-ksh&repo=RankResume&theme=dark&hide_border=true" alt="RankResume" />
+  <img
+    src="https://github-stats-extended.vercel.app/api/pin/?username=cde-ksh&repo=RankResume&theme=dark&hide_border=true"
+    alt="RankResume"
+  />
 </p>
